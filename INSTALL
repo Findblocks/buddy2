@@ -1,0 +1,9 @@
+Building Buddy2
+
+See doc/readme-qt.rst for instructions on building Buddy2 QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Buddy2.
+
+See doc/build-*.txt for instructions on building buddy2d,
+the intended-for-services, no-graphical-interface, reference
+implementation of Buddy2.
